@@ -1,0 +1,80 @@
+body {
+background-color: black;
+	margin: 0;
+}
+
+.topbar{
+	padding-top: 100px;
+	width: 6000px;
+	height: 50px;
+}
+.contact{
+	padding-top: 100px;
+	padding-left: 50px;
+	width: 900px;
+}
+
+.email{
+	width: 550px;
+	position: absolute;
+	left: 700px;
+	padding-top: 100px
+}
+.email2{
+	font-size: 85px;
+	color: #fbd82c;
+	position: fixed;
+	left: 1400px;
+	padding-top: 115px;
+	letter-spacing: 10px;
+	
+	
+}
+
+.phone{
+	width: 550px;
+	position: absolute;
+	left: 800px;
+	padding-top: 1500px;
+	}
+
+.number{
+	font-size: 85px;
+	color: #fbd82c;
+	position: fixed;
+	left: 1400px;
+	padding-top: 1599px;
+	letter-spacing: 10px;
+}
+
+.about{
+	font-size: 100px;
+	color: #fbd82c;
+	text-decoration: none;
+	position:fixed;
+	left: 50px;
+	padding-top: 760px;
+	letter-spacing: 15px;
+}
+
+.tree{
+	color: #fbd82c;
+	font-size: 70px;
+	position: absolute;
+	left: 3000px;
+	padding-top: 190px;
+	float: none;
+	
+
+}
+.tree2{
+	color: #fbd82c;
+	font-size: 70px;
+	position: absolute;
+	left: 3000px;
+	padding-top: 1600px;
+	float: none;
+	
+}
+
+
